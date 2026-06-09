@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=PRIYADHARSHINI&color=00D9FF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/PRIYADHARSHINI?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/PRIYADHARSHINI?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=priyadharshini-banglore&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/priyadharshini-banglore?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/priyadharshini-banglore?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
 
 </div>
 
@@ -146,20 +146,20 @@ Designed a full-stack healthcare platform with role-based access, appointment sc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PRIYADHARSHINI&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&border_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYADHARSHINI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyadharshini-banglore&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&border_color=00D9FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini-banglore&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYADHARSHINI&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini-banglore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYADHARSHINI&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini-banglore&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF" alt="Activity Graph" />
 
 </div>
 
@@ -185,7 +185,7 @@ Designed a full-stack healthcare platform with role-based access, appointment sc
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRIYADHARSHINI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyadharshini-banglore)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priya.2001it2@gmail.com)
 
 </div>
@@ -201,6 +201,6 @@ Designed a full-stack healthcare platform with role-based access, appointment sc
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 
-**⭐ From [PRIYADHARSHINI](https://github.com/PRIYADHARSHINI)**
+**⭐ From [PRIYADHARSHINI](https://github.com/priyadharshini-banglore)**
 
 </div>
