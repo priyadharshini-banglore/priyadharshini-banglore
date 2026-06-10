@@ -65,9 +65,10 @@ const priyadharshini = {
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ### ⚙️ Tools & Other
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -102,6 +103,22 @@ Built an AI-powered restaurant management system with smart menu recommendations
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br/><br/>
 Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
+
+### [VOICE-LOGISTIC ASSISTANT](#)
+*Full-Stack Healthcare Platform*<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/><br/>
+Voice Logistic Assistant is an AI-powered voice-enabled logistics management system that allows users to interact using natural language voice commands. The system helps track shipments, check delivery status, manage logistics operations, and retrieve transportation information through speech recognition and intelligent response generation, improving efficiency and user experience in logistics workflows.
+
+### [AI-MENTOR PLATFORM](#)
+stack : FAST API,Vue js, DAG algorithm, CBR (CASE-Based Reasoning)
+AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
+
+### [TITANIC DATASET PREDICTIONS](#)
+stack : HTML,CSS,JAVASCRIPT, Machine Learning
+Titanic Survival Prediction is a Machine Learning project that predicts whether a passenger would survive the Titanic disaster based on features such as age, gender, ticket class, fare, and family information. The project uses historical passenger data to train a classification model and generate survival predictions.
 
 </td>
 </tr>
