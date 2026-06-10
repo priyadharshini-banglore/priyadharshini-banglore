@@ -35,64 +35,7 @@ const priyadharshini = {
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🍽️ Online Food Waste Tracker
-*MERN Stack Application*
-
-Description here...
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 Doctor-Patient Management System
-*Full-Stack Healthcare Platform*
-
-Description here...
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚚 Voice Logistic Assistant
-*AI-Powered Logistics Platform*
-
-Description here...
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚢 Titanic Survival Prediction
-*Machine Learning Project*
-
-Description here...
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 AI Mentor Platform
-*AI Career Guidance Platform*
-
-Description here...
-
-</td>
-
-<td width="50%" valign="top">
-
-<!-- Optional future project -->
-
-</td>
-</tr>
-</table>
 
 ## 🛠 Tech Stack & Tools
 
@@ -181,6 +124,7 @@ Description here...
 </td>
 </tr>
 </table>
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -200,7 +144,6 @@ Built an AI-powered restaurant management system with smart menu recommendations
 
 </td>
 
-<td align="left" width="50%" valign="top">
 
 ### [Doctor-Patient Management System](#)
 *Full-Stack Healthcare Platform*<br/>
@@ -212,7 +155,7 @@ Designed a full-stack healthcare platform with role-based access, appointment sc
 
 </td>
 
-<td align="left" width="50%" valign="top">
+
 
 ### [VOICE-LOGISTIC ASSISTANT](#)
 *Full-Stack Healthcare Platform*<br/>
@@ -228,7 +171,6 @@ AI Mentor Platform is an intelligent learning and career guidance system that pr
 
 </td>
 
-<td align="left" width="50%" valign="top">
 
 ### [TITANIC DATASET PREDICTIONS](#)
 stack : HTML,CSS,JAVASCRIPT, Machine Learning
