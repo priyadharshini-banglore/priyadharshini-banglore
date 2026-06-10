@@ -41,6 +41,41 @@ const priyadharshini = {
 <tr>
 <td align="left" width="50%">
 
+## 🌟 Featured Projects
+
+### 🚚 Voice Logistic Assistant
+**Tech Stack:** React, Django, Python, Speech Recognition, AI
+
+Voice Logistic Assistant is an AI-powered voice-enabled logistics management system that allows users to interact using natural language voice commands. The system helps track shipments, check delivery status, manage logistics operations, and retrieve transportation information through speech recognition and intelligent response generation.
+
+---
+
+### 🎓 AI Mentor Platform
+**Tech Stack:** FastAPI, Vue.js, DAG Algorithm, Case-Based Reasoning (CBR)
+
+AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
+
+---
+
+### 🚢 Titanic Survival Prediction
+**Tech Stack:** HTML, CSS, JavaScript, Machine Learning
+
+Titanic Survival Prediction is a Machine Learning project that predicts whether a passenger would survive the Titanic disaster based on features such as age, gender, ticket class, fare, and family information.
+
+---
+
+### 🍽️ Online Food Waste Tracker
+**Tech Stack:** React, Node.js, MongoDB, AI
+
+Built an AI-powered restaurant management system with smart menu recommendations, automated ordering workflow, and real-time data-driven insights to reduce food waste and enhance customer experience.
+
+---
+
+### 🏥 Doctor-Patient Management System
+**Tech Stack:** React, Django, Python
+
+Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
+
 ## 💻 Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
