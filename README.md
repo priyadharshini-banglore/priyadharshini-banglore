@@ -35,41 +35,64 @@ const priyadharshini = {
 
 </div>
 
-
-## 🌟 Featured Projects
-
-### 🚚 Voice Logistic Assistant
-**Tech Stack:** React, Django, Python, Speech Recognition, AI
-
-Voice Logistic Assistant is an AI-powered voice-enabled logistics management system that allows users to interact using natural language voice commands. The system helps track shipments, check delivery status, manage logistics operations, and retrieve transportation information through speech recognition and intelligent response generation.
-
----
-
-### 🎓 AI Mentor Platform
-**Tech Stack:** FastAPI, Vue.js, DAG Algorithm, Case-Based Reasoning (CBR)
-
-AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
-
----
-
-### 🚢 Titanic Survival Prediction
-**Tech Stack:** HTML, CSS, JavaScript, Machine Learning
-
-Titanic Survival Prediction is a Machine Learning project that predicts whether a passenger would survive the Titanic disaster based on features such as age, gender, ticket class, fare, and family information.
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🍽️ Online Food Waste Tracker
-**Tech Stack:** React, Node.js, MongoDB, AI
+*MERN Stack Application*
 
-Built an AI-powered restaurant management system with smart menu recommendations, automated ordering workflow, and real-time data-driven insights to reduce food waste and enhance customer experience.
+Description here...
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏥 Doctor-Patient Management System
-**Tech Stack:** React, Django, Python
+*Full-Stack Healthcare Platform*
 
-Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
+Description here...
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Voice Logistic Assistant
+*AI-Powered Logistics Platform*
+
+Description here...
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚢 Titanic Survival Prediction
+*Machine Learning Project*
+
+Description here...
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 AI Mentor Platform
+*AI Career Guidance Platform*
+
+Description here...
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Optional future project -->
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Tech Stack & Tools
 
