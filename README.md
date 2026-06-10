@@ -37,10 +37,6 @@ const priyadharshini = {
 
 ## 🛠 Tech Stack & Tools
 
-<table>
-<tr>
-<td align="left" width="50%">
-
 ## 🌟 Featured Projects
 
 ### 🚚 Voice Logistic Assistant
