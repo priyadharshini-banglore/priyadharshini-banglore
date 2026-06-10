@@ -41,19 +41,26 @@ const priyadharshini = {
 <tr>
 <td align="left" width="50%">
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+## 💻 Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+## 🌐 Web Technologies
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### 🚀 Frameworks & Libraries
+🚀 Frameworks & Libraries
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </td>
 
@@ -104,6 +111,10 @@ Built an AI-powered restaurant management system with smart menu recommendations
 <br/><br/>
 Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
 
+</td>
+
+<td align="left" width="50%" valign="top">
+
 ### [VOICE-LOGISTIC ASSISTANT](#)
 *Full-Stack Healthcare Platform*<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -115,6 +126,10 @@ Voice Logistic Assistant is an AI-powered voice-enabled logistics management sys
 ### [AI-MENTOR PLATFORM](#)
 stack : FAST API,Vue js, DAG algorithm, CBR (CASE-Based Reasoning)
 AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
+
+</td>
+
+<td align="left" width="50%" valign="top">
 
 ### [TITANIC DATASET PREDICTIONS](#)
 stack : HTML,CSS,JAVASCRIPT, Machine Learning
