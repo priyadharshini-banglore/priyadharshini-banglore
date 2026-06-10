@@ -127,63 +127,70 @@ const priyadharshini = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-<td align="left" width="50%" valign="top">
 
-### [Online Food Waste Tracker](#)
-*MERN Stack Application*<br/>
+<!-- LEFT BOX -->
+<td width="50%" valign="top">
+
+### 🍽️ Online Food Waste Tracker
+*MERN Stack Application*
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-<br/><br/>
-Built an AI-powered restaurant management system with smart menu recommendations, automated ordering workflow, and real-time data-driven insights to reduce food waste and enhance customer experience.
 
-</td>
-<td width="50%" valign="top">
+Built an AI-powered restaurant management system with smart menu recommendations, automated ordering workflow, and real-time insights to reduce food waste.
 
-### [Doctor-Patient Management System](#)
-*Full-Stack Healthcare Platform*<br/>
+---
+
+### 🏥 Doctor-Patient Management System
+*Full-Stack Healthcare Platform*
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<br/><br/>
-Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
+
+Designed a healthcare platform with appointment scheduling, medical record management, and secure role-based access.
 
 </td>
-<td align="left" width="50%" valign="top">
 
-### [VOICE-LOGISTIC ASSISTANT](#)
-*Full-Stack Healthcare Platform*<br/>
+<!-- RIGHT BOX -->
+<td width="50%" valign="top">
+
+### 🚚 Voice Logistic Assistant
+*AI-Powered Logistics Platform*
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<br/><br/>
-Voice Logistic Assistant is an AI-powered voice-enabled logistics management system that allows users to interact using natural language voice commands. The system helps track shipments, check delivery status, manage logistics operations, and retrieve transportation information through speech recognition and intelligent response generation, improving efficiency and user experience in logistics workflows.
 
-<td width="50%" valign="top">
+AI-powered logistics management system with voice commands for shipment tracking and delivery monitoring.
 
-### [AI-MENTOR PLATFORM](#)
-stack : FAST API,Vue js, DAG algorithm, CBR (CASE-Based Reasoning)
-AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
+---
+
+### 🎓 AI Mentor Platform
+*AI Career Guidance Platform*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+Personalized AI mentor that provides learning paths, interview preparation, and career guidance.
+
+---
+
+### 🚢 Titanic Survival Prediction
+*Machine Learning Project*
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+Predicts passenger survival using age, gender, ticket class, fare, and family information.
 
 </td>
 
-
-### [TITANIC DATASET PREDICTIONS](#)
-stack : HTML,CSS,JAVASCRIPT, Machine Learning
-Titanic Survival Prediction is a Machine Learning project that predicts whether a passenger would survive the Titanic disaster based on features such as age, gender, ticket class, fare, and family information. The project uses historical passenger data to train a classification model and generate survival predictions.
-
-</td>
 </tr>
 </table>
 
-</div>
-
----
 
 ## 🏆 Competitive Programming & Achievements
 
