@@ -143,7 +143,7 @@ const priyadharshini = {
 Built an AI-powered restaurant management system with smart menu recommendations, automated ordering workflow, and real-time data-driven insights to reduce food waste and enhance customer experience.
 
 </td>
-
+<td width="50%" valign="top">
 
 ### [Doctor-Patient Management System](#)
 *Full-Stack Healthcare Platform*<br/>
@@ -154,7 +154,7 @@ Built an AI-powered restaurant management system with smart menu recommendations
 Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
 
 </td>
-
+<td width="50%" valign="top">
 
 
 ### [VOICE-LOGISTIC ASSISTANT](#)
@@ -170,7 +170,7 @@ stack : FAST API,Vue js, DAG algorithm, CBR (CASE-Based Reasoning)
 AI Mentor Platform is an intelligent learning and career guidance system that provides personalized mentorship using Artificial Intelligence. The platform helps students and job seekers improve their skills, prepare for interviews, receive career guidance, and follow customized learning paths based on their goals and performance.
 
 </td>
-
+<td width="50%" valign="top">
 
 ### [TITANIC DATASET PREDICTIONS](#)
 stack : HTML,CSS,JAVASCRIPT, Machine Learning
