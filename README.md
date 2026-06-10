@@ -154,7 +154,7 @@ Built an AI-powered restaurant management system with smart menu recommendations
 Designed a full-stack healthcare platform with role-based access, appointment scheduling, medical record management, and secure data handling using a Django backend.
 
 </td>
-
+<td align="left" width="50%" valign="top">
 
 ### [VOICE-LOGISTIC ASSISTANT](#)
 *Full-Stack Healthcare Platform*<br/>
@@ -163,6 +163,8 @@ Designed a full-stack healthcare platform with role-based access, appointment sc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br/><br/>
 Voice Logistic Assistant is an AI-powered voice-enabled logistics management system that allows users to interact using natural language voice commands. The system helps track shipments, check delivery status, manage logistics operations, and retrieve transportation information through speech recognition and intelligent response generation, improving efficiency and user experience in logistics workflows.
+
+<td width="50%" valign="top">
 
 ### [AI-MENTOR PLATFORM](#)
 stack : FAST API,Vue js, DAG algorithm, CBR (CASE-Based Reasoning)
