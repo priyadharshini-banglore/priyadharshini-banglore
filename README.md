@@ -20,8 +20,6 @@
 
 <div align="center">
 
-### 🌸 About Me 🌸
-
 <table width="100%" style="border-radius: 12px; border: 2px solid #ff79c6; background: #0d1117;">
 <tr>
 <td style="padding: 20px; font-family: 'Segoe UI', sans-serif;">
