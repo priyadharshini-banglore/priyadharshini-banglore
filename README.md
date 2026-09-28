@@ -20,20 +20,36 @@
 
 <div align="center">
 
-```javascript
-const priyadharshini = {
-  pronouns: "she" | "her",
-  code: ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
-  techStack: ["React.js", "Node.js", "Express.js", "Django"],
-  databases: ["MongoDB", "MySQL"],
-  tools: ["AWS Cloud", "Git", "Machine Learning"],
-  currentFocus: "AI-enabled Software Development",
-  passion: "Building innovative AI-powered and full-stack solutions",
-  motto: "Code with purpose, innovate with AI"
-};
-```
+### 🌸 About Me 🌸
+
+<table width="100%" style="border-radius: 12px; border: 2px solid #ff79c6; background: #0d1117;">
+<tr>
+<td style="padding: 20px; font-family: 'Segoe UI', sans-serif;">
+
+- 🌐 **Portfolio:** [**portfolio-priyadharshini-eta.vercel.app**](https://portfolio-priyadharshini-eta.vercel.app/) 🔗 *(Click to open)*
+- 🎀 **Pronouns:** `she / her`
+- 🎯 **Current Focus:** `AI-enabled Software Development`
+- 💻 **Code:** `C` • `C++` • `Python` • `JavaScript` • `HTML5` • `CSS3`
+- 🚀 **Tech Stack:** `React.js` • `Node.js` • `Express.js` • `Django`
+- 🗄️ **Databases:** `MongoDB` • `MySQL`
+- 🛠️ **Tools:** `AWS Cloud` • `Git` • `Machine Learning`
+- 💖 **Passion:** *Building innovative AI-powered and full-stack solutions*
+- 💡 **Motto:** *"Code with purpose, innovate with AI"*
+
+<p align="center" style="margin-top: 15px;">
+  <a href="https://portfolio-priyadharshini-eta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_View_Live_Portfolio-Click_Here-ff3366?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+
+
 
 
 
